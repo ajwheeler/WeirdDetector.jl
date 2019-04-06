@@ -1,6 +1,6 @@
 This code implements the algorithm in [Wheeler & Kipping 2019]().  Find posterior samples from the paper at [github.com/coolworlds/WDdata](https://github.com/coolworlds/WDdata).
 
-This code is tested with Julia 1.0, but it should be compatible with 0.6 as well.  It requires the `Interpolations`, `DataFrames`, and `FITSIO` packages.  To install them run these commands on the Julia REPL
+This code is tested with Julia 1.0.  It requires the `Interpolations`, `DataFrames`, and `FITSIO` packages.  To install them run these commands on the Julia REPL
 
     Pkg.add("Interpolations")
     Pkg.add("DataFrames")
